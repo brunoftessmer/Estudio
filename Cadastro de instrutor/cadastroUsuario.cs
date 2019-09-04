@@ -24,7 +24,7 @@ namespace Cadastro_de_instrutor
             
             if (radioadm.Checked)
             {
-                tipo = "adm";
+                tipo = "0";
 
             }
             

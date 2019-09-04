@@ -1,0 +1,41 @@
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Estudio.csprojAssemblyReference.cache
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.cadastroExercicio.resources
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.cadastroPaciente.resources
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.frmcaduser.resources
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.frmMenu.resources
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.login.resources
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.Properties.Resources.resources
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.exe
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.pdb
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.exe.config
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.exe
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.pdb
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\MySql.Data.dll
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Google.Protobuf.dll
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Renci.SshNet.dll
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bruno\Dropbox\Tudo do TCC\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Estudio.csproj.CopyComplete
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.exe.config
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.exe
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.pdb
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Renci.SshNet.dll
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Estudio.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.cadastroExercicio.resources
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.cadastroPaciente.resources
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.frmcaduser.resources
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.frmMenu.resources
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.login.resources
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.Properties.Resources.resources
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Estudio.csproj.CopyComplete
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.exe
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.pdb
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.exe.manifest
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.application
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.exe.manifest
+C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.application

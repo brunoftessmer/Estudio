@@ -20,9 +20,9 @@ namespace Cadastro_de_instrutor
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Login realizado com sucesso.");
-            frmcaduser newfrmcaduser = new frmcaduser();
-            newfrmcaduser.ShowDialog();
-
+            frmMenu newfrmMenu = new frmMenu();
+            newfrmMenu.ShowDialog();
+            
          
         }
 

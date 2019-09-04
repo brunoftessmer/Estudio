@@ -83,3 +83,4 @@ C:\Users\Bruno\Dropbox\Cadastro de instrutor\Cadastro de instrutor\obj\Debug\Cad
 C:\Users\Bruno\Dropbox\Cadastro de instrutor\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.csproj.CopyComplete
 C:\Users\Bruno\Dropbox\Cadastro de instrutor\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.exe
 C:\Users\Bruno\Dropbox\Cadastro de instrutor\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.pdb
+C:\Users\Bruno\Dropbox\Cadastro de instrutor\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.frmMenu.resources
