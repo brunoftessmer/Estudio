@@ -39,21 +39,3 @@ C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Cadastro
 C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.application
 C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.exe.manifest
 C:\Users\Aluno\Desktop\PROJETO ESTÚDIO\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.application
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.exe.config
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.exe.manifest
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.application
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.exe
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\bin\Debug\Cadastro de instrutor.pdb
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.cadastroExercicio.resources
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.cadastroPaciente.resources
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.frmcaduser.resources
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.frmMenu.resources
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.login.resources
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.Properties.Resources.resources
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Estudio.csproj.GenerateResource.cache
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.exe.manifest
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.application
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Estudio.csproj.CopyComplete
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.exe
-C:\Users\Aluno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.pdb
