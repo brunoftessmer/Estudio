@@ -32,7 +32,6 @@
             this.btnPaciente = new System.Windows.Forms.Button();
             this.btnInstrutor = new System.Windows.Forms.Button();
             this.menu = new System.Windows.Forms.GroupBox();
-            this.button1 = new System.Windows.Forms.Button();
             this.menu.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -68,7 +67,6 @@
             // 
             // menu
             // 
-            this.menu.Controls.Add(this.button1);
             this.menu.Controls.Add(this.btnExercicio);
             this.menu.Controls.Add(this.btnInstrutor);
             this.menu.Controls.Add(this.btnPaciente);
@@ -77,15 +75,6 @@
             this.menu.Size = new System.Drawing.Size(534, 322);
             this.menu.TabIndex = 3;
             this.menu.TabStop = false;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(221, 84);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
             // 
             // frmMenu
             // 
@@ -106,6 +95,5 @@
         private System.Windows.Forms.Button btnPaciente;
         private System.Windows.Forms.Button btnInstrutor;
         private System.Windows.Forms.GroupBox menu;
-        private System.Windows.Forms.Button button1;
     }
 }
