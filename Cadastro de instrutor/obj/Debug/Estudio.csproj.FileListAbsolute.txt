@@ -81,3 +81,4 @@ C:\Users\Bruno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadas
 C:\Users\Bruno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Estudio.csproj.CopyComplete
 C:\Users\Bruno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.exe
 C:\Users\Bruno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro de instrutor.pdb
+C:\Users\Bruno\Documents\GitHub\tccEstudio\Cadastro de instrutor\obj\Debug\Cadastro_de_instrutor.Lista_de_pacientes.resources

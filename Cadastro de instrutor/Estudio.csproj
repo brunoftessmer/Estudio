@@ -98,6 +98,12 @@
     <Compile Include="cadastroUsuario.Designer.cs">
       <DependentUpon>cadastroUsuario.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lista de pacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista de pacientes.Designer.cs">
+      <DependentUpon>Lista de pacientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -120,6 +126,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="cadastroUsuario.resx">
       <DependentUpon>cadastroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista de pacientes.resx">
+      <DependentUpon>Lista de pacientes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>

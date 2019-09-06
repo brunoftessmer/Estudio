@@ -34,5 +34,11 @@ namespace Cadastro_de_instrutor
             frmcaduser newfrmcaduser = new frmcaduser();
             newfrmcaduser.ShowDialog();
         }
+
+        private void btnverpac_Click(object sender, EventArgs e)
+        {
+            Lista_de_pacientes newlistadepacientes = new Lista_de_pacientes();
+            newlistadepacientes.ShowDialog();
+        }
     }
 }

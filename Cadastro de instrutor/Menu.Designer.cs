@@ -32,6 +32,7 @@
             this.btnPaciente = new System.Windows.Forms.Button();
             this.btnInstrutor = new System.Windows.Forms.Button();
             this.menu = new System.Windows.Forms.GroupBox();
+            this.btnverpac = new System.Windows.Forms.Button();
             this.menu.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -67,6 +68,7 @@
             // 
             // menu
             // 
+            this.menu.Controls.Add(this.btnverpac);
             this.menu.Controls.Add(this.btnExercicio);
             this.menu.Controls.Add(this.btnInstrutor);
             this.menu.Controls.Add(this.btnPaciente);
@@ -75,6 +77,16 @@
             this.menu.Size = new System.Drawing.Size(534, 322);
             this.menu.TabIndex = 3;
             this.menu.TabStop = false;
+            // 
+            // btnverpac
+            // 
+            this.btnverpac.Location = new System.Drawing.Point(6, 10);
+            this.btnverpac.Name = "btnverpac";
+            this.btnverpac.Size = new System.Drawing.Size(130, 50);
+            this.btnverpac.TabIndex = 3;
+            this.btnverpac.Text = "Ver pacientes cadastrados";
+            this.btnverpac.UseVisualStyleBackColor = true;
+            this.btnverpac.Click += new System.EventHandler(this.btnverpac_Click);
             // 
             // frmMenu
             // 
@@ -95,5 +107,6 @@
         private System.Windows.Forms.Button btnPaciente;
         private System.Windows.Forms.Button btnInstrutor;
         private System.Windows.Forms.GroupBox menu;
+        private System.Windows.Forms.Button btnverpac;
     }
 }
