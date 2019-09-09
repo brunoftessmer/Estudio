@@ -78,6 +78,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Autenticação.cs" />
     <Compile Include="cadastrar.cs" />
     <Compile Include="cadastroExercicio.cs">
       <SubType>Form</SubType>
@@ -98,6 +99,7 @@
     <Compile Include="cadastroUsuario.Designer.cs">
       <DependentUpon>cadastroUsuario.cs</DependentUpon>
     </Compile>
+    <Compile Include="Conexão.cs" />
     <Compile Include="Lista de pacientes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -144,6 +146,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Estudio_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
@@ -170,6 +173,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estudio %28base%29.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
